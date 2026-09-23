@@ -1,3 +1,5 @@
 versión 1: creación del proyecto
 
 versión 2: creación del mapa
+
+versión 4: Matías creó una nueva mecánica de portales
