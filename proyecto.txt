@@ -1,5 +1,3 @@
 versión 1: creación del proyecto
 
 versión 2: creación del mapa
-
-versión 3: ERROR
